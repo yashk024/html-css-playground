@@ -16,5 +16,7 @@
 2. Write your CSS code in the CSS editor pane.
 3. Watch as your web page comes to life in the preview pane!
 
+### [Try it now !](https://yashk024.github.io/html-css-playground/src/index.html)
+
 ---
 ---
